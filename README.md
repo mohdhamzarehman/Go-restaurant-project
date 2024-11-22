@@ -43,4 +43,4 @@ Here are some screenshots of the program in running.
 ![Screenshot 2024-11-22 222526](https://github.com/user-attachments/assets/3b5cf85a-aa30-495b-a96e-3bf537db67f1)
   ![image](https://user-images.githubusercontent.com/106534693/176141902-8845a817-9367-4dd6-8fc9-762cc1ec992f.png)
   ![image](https://user-images.githubusercontent.com/106534693/176142141-79db608e-af78-4dcb-bd77-76a7d7910aa5.png)
-  ![image](https://user-images.githubusercontent.com/106534693/176142239-32473878-8785-4970-bf78-2945754ba026.png)
+  ![Screenshot 2024-11-22 222702](https://github.com/user-attachments/assets/1774c4b6-6586-432e-8ca9-5a25530b1622)
